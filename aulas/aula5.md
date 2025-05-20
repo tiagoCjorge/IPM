@@ -1,5 +1,4 @@
-A aula começou com a apresentação de um trabalho em atraso por parte de dois colegas, 
-seguida de um alerta por parte do professor sobre a importância de apresentar os trabalhos de forma adequada.
+A aula começou com um alerta por parte do professor sobre a importância de apresentar os trabalhos de forma adequada.
 Foi destacada a relevância da interação entre o orador e a apresentação, sublinhando a ligação entre a pessoa e a máquina, e o impacto que essa dinâmica tem nos ouvintes.
 
 Foi ainda reforçada a importância do uso correto das cores. 
