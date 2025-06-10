@@ -1,4 +1,4 @@
-#Aula 11
+# Aula 11
 
 A aula começou com o tema design de ícones, sublinhando a sua importância para melhorar a interação em interfaces. 
 Vimos que os ícones devem ser simples, claros e de fácil reconhecimento, privilegiando formas familiares e evitando detalhes excessivos.
